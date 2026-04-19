@@ -11,7 +11,7 @@
 - 📫 How to reach me **ataldevofficial887@gmail.com**
 
 - ⚡ Fun fact **My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!**
-- 
+  
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ataldevofficial887@gmail.com) 
 
